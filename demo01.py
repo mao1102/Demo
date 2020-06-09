@@ -14,11 +14,13 @@ print((52+2)*5)
 print(2<3)
 
 
+
+
+"""
 a=input("请输入内容:")
 b=input("请继续输入内容：")
 print("获取内容",a+b)
 
-"""
 #数据格式的转换
 # print(type("哈哈"))
 # print(type(123))
