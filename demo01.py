@@ -80,7 +80,6 @@ name=input("请输入你的姓名:")
 sex=input("请输入你的性别:")
 age=input("请输入你的年龄:")
 a={"你的姓名是":name,"性别是":sex,"年龄是":age}
-# a.update(name=name,sex=sex,age=age)
 print(a)
 
 
